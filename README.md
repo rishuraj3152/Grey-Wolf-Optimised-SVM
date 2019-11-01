@@ -1,6 +1,6 @@
 # Grey-Wolf-Optimised-SVM
 Inspired by grey wolf hunting technique, algorithm developed named Grey Wolf Optimiser. Huge applications of this algorithm in real world. One has been shown as working on SVM
-In this paper, we used Grey Wolf Optimization [1] along with Support Vector Machine
+Using this paper[1], we used Grey Wolf Optimization [1] along with Support Vector Machine
 (GWO-SVM) classifier for effective feature selection to help with diagnosis of Coronary Artery
 Disease (CAD). GWO-SVM works in two stages where in the first stage we use GWO for
 effective feature selection from the Cleveland heart dataset. Initially GWO produce the initial
